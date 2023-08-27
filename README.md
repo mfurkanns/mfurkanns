@@ -3,8 +3,11 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Passionate software engineer from Turkey</h3>
 
+
 <h4 align="center">Currently working on iOS Development</h4>
 
+
+Graduated from Yildiz Technical University, Department of Computer Engineering (GPA: 3.21). Currently, working at Turkish Airlines Technology as an iOS Developer. Software Engineer with a strong interest in software engineering, full-stack development, and AI. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
