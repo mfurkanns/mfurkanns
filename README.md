@@ -7,8 +7,6 @@
 <h4 align="center">Currently working on iOS Development</h4>
 
 
-Graduated from Yildiz Technical University, Department of Computer Engineering (GPA: 3.21). Currently, working at Turkish Airlines Technology as an iOS Developer. Software Engineer with a strong interest in software engineering, full-stack development, and AI. 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://tr.linkedin.com/in/mehmet-furkan-sahin-1a66a0144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://tr.linkedin.com/in/mehmet-furkan-%c5%9fahin-1a66a0144" height="30" width="40" /></a>
